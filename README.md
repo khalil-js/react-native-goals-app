@@ -60,7 +60,7 @@ npx expo start
 
 Scan the QR code using Expo Go on your phone or run it on an emulator.
 
-
+```
 🎓 Learning Goals
 
 This project helped me understand:
@@ -76,7 +76,7 @@ Modal handling
 Custom styling with Pressable
 
 Clean project structure
-```
+
 👤 Author
 
 Khalil
